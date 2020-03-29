@@ -1,0 +1,4 @@
+5
+7380
+{'Support': 5230, 'Security': 4300, 'R&D': 2781, 'Media': 3200, 'Research': 7380}
+{'Support': ['5230', 'Wheeler'], 'Security': ['4300', 'Hopper'], 'R&D': ['2781', 'Sinclair'], 'Media': ['3200', 'Byers'], 'Research': ['7380', 'Brenner']}
